@@ -1,4 +1,10 @@
+### Hello, I am Peter 👋🏻
 
-__WELCOME TO MY PAGE__
-
-My name is ThanhPham. Nick name is Peter. I am interested in the following topics: Computer Vision, Natural Language Processing, Speech Systhesis, Reinforcement Learning. 
+- 🎓 Phd student at Chung Cheng University in Taiwan
+- 🔬 Focus on Computer Vision, Natural Language Processing, Speech Systhesis, Reinforcement Learning.
+- 💻 AI Researcher for 6 years
+- 🗽 Leader of nk2028
+- 🌎 Member of Ideographic Research Group and CanCLID
+- <img width="13.75" src="linux.png" /> Experienced Ubuntu user
+- 💬 Speak English, Japanese, Norwegian and Danish
+- 💜 Like Python, C++
