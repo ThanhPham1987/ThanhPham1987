@@ -5,5 +5,5 @@
 - 💻 AI Researcher for 6 years
 - 🌎 Member of Ideographic Research Group and CanCLID
 - <img width="13.75" src="linux.png" /> Experienced Ubuntu user
-- 💬 Speak English, Japanese, Norwegian and Danish
+- 💬 Speak English
 - 💜 Like Python, C++
