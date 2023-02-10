@@ -5,3 +5,6 @@
 - 💻 AI Researcher for 6 years
 - 💬 Speak English
 - 💜 Like Python, C++
+
+<a href=#><img src="contributions.svg"></a>
+
